@@ -2,12 +2,12 @@
 	"name": "",
 	"icons": [
 		{
-			"src": "\/img\/pragyavan-logo-temporary.png",
+			"src": "\/img\/pragyavan-logo.png",
 			"sizes": "192x192",
 			"type": "image\/png"
 		},
 		{
-			"src": "\/img\/pragyavan-logo-temporary.png",
+			"src": "\/img\/pragyavan-logo.png",
 			"sizes": "512x512",
 			"type": "image\/png"
 		}
