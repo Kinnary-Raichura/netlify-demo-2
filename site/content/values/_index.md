@@ -1,6 +1,6 @@
 ---
 title: Vision
-image: /img/about-jumbotron.jpg
+image: img/holistic-living.jpg
 values:
   - heading: Ability of Human body to heal itself
     text: >
