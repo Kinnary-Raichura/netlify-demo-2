@@ -2,7 +2,7 @@
 title: Vision
 image: img/holistic-living.jpg
 values:
-  - heading: Ability of Human body to heal itself
+  - heading: Ability of Human body to heal
     text: >
       We organize training and workshops to educate people on unique ability of
       human body to heal itself and support holistic living.
