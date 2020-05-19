@@ -23,15 +23,10 @@ values:
       We support and develop research initiatives in the field of integrative
       health and spiritual wisdom.
     imageUrl: /img/about-direct-sourcing.jpg
-  - heading: Worldwide Professional Network
+  - heading: General Outreach
     text: >
       We foster the appreciation and application of holistic living and
       integrative health principles through public awareness, education, and
       outreach.
     imageUrl: /img/about-reinvest-profits.jpg
-    - heading: Research Initiatives
-    text: >
-      We cultivate a worldwide professional network with allied associations in the field of holistic
-medicine and integrative health.
-    imageUrl: /img/about-direct-sourcing.jpg
----
+  ---
