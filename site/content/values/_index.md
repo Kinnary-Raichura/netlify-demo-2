@@ -32,5 +32,5 @@ values:
   - text: We cultivate a worldwide professional network with allied associations in
       the field of holistic medicine and integrative health.
     heading: Worldwide Professional Network
-    imageUrl: img/about-single-origin.jpg
+    imageUrl: img/alternative-therapies-2.jpg
 ---
