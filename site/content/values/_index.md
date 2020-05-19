@@ -29,4 +29,8 @@ values:
       integrative health principles through public awareness, education, and
       outreach.
     imageUrl: /img/about-reinvest-profits.jpg
-  ---
+  - text: We cultivate a worldwide professional network with allied associations in
+      the field of holistic medicine and integrative health.
+    heading: Worldwide Professional Network
+    imageUrl: img/about-single-origin.jpg
+---
