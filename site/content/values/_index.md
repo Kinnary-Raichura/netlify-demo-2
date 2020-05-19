@@ -1,45 +1,32 @@
 ---
-title: "Vision"
+title: Vision
 image: /img/about-jumbotron.jpg
 values:
-  - heading: "Shade-grown coffee"
+  - heading: Ability of Human body to heal itself
     text: >
-      Coffee is a small tree or shrub that grows in the forest
-      understory in its wild form, and traditionally was grown
-      commercially under other trees that provided shade. The
-      forest-like structure of shade coffee farms provides habitat for
-      a great number of migratory and resident species.
-    imageUrl: "/img/about-shade-grown.jpg"
-  - heading: "Single origin"
+      We organize training and workshops to educate people on unique ability of
+      human body to heal itself and support holistic living.
+    imageUrl: /img/about-shade-grown.jpg
+  - heading: Support Holistic Living
+    text: >+
+      We promote practitioners and teachers of integrative health and spiritual
+      wisdom to help support holistic living.
+
+    imageUrl: /img/about-single-origin.jpg
+  - heading: Relationship building
     text: >
-      Single-origin coffee is coffee grown within a single known
-      geographic origin. Sometimes, this is a single farm or a
-      specific collection of beans from a single country. The name of
-      the coffee is then usually the place it was grown to whatever
-      degree available.
-    imageUrl: "/img/about-single-origin.jpg"
-  - heading: "Sustainable farming"
+      We create community through relationship building with our conferences,
+      website, social media, and our yearly publications
+    imageUrl: /img/about-sustainable-farming.jpg
+  - heading: Research Initiatives
     text: >
-      Sustainable agriculture is farming in sustainable ways based on
-      an understanding of ecosystem services, the study of
-      relationships between organisms and their environment. What
-      grows where and how it is grown are a matter of choice and
-      careful consideration for nature and communities.
-    imageUrl: "/img/about-sustainable-farming.jpg"
-  - heading: "Direct sourcing"
+      We support and develop research initiatives in the field of integrative
+      health and spiritual wisdom.
+    imageUrl: /img/about-direct-sourcing.jpg
+  - heading: General Outreach
     text: >
-      We want to truly empower the communities that bring amazing
-      coffee to you. That’s why we reinvest 20% of our profits into
-      farms, local businesses and schools everywhere our coffee is
-      grown. You can see the communities grow and learn more about
-      coffee farming on our blog.
-    imageUrl: "/img/about-direct-sourcing.jpg"
-  - heading: "Reinvest profits"
-    text: >
-      We want to truly empower the communities that bring amazing
-      coffee to you. That’s why we reinvest 20% of our profits into
-      farms, local businesses and schools everywhere our coffee is
-      grown. You can see the communities grow and learn more about
-      coffee farming on our blog.
-    imageUrl: "/img/about-reinvest-profits.jpg"
+      We foster the appreciation and application of holistic living and
+      integrative health principles through public awareness, education, and
+      outreach.
+    imageUrl: /img/about-reinvest-profits.jpg
 ---
