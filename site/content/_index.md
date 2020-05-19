@@ -26,5 +26,6 @@ values:
     Pragyavan aims is to provide a platform with diverse options to help people
     attain their best potential. 
 
+
     We hope that this ‘awareness’ can then create a ripple effect by connecting us better to our environment and build a peaceful, sustainable society.
 ---
