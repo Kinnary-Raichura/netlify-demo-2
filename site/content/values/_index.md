@@ -1,5 +1,5 @@
 ---
-title: Values
+title: Vision
 image: img/alternative-medicine.jpg
 values:
   - heading: Shade-grown coffee
