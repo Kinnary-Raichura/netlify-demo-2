@@ -6,12 +6,12 @@ values:
     text: >
       We organize workshops and trainings to educate people on unique ability of
       human body to heal itself and support holistic living. 
-    imageUrl: /img/about-shade-grown.jpg
+    imageUrl: img/holistice-living.jpg
   - heading: Promote Practitioners & Teachers
     text: >
       We promote practitioners and teachers of integrative health and spiritual
       wisdom to help support holistic living.
-    imageUrl: /img/about-single-origin.jpg
+    imageUrl: img/alternative-therapies-2.jpg
   - heading: Relationship Building
     text: >
       We create community through relationship building with our conferences,
