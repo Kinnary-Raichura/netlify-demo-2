@@ -23,22 +23,6 @@ export default class PostPreview extends React.Component {
           </div>
         </div>
 
-     <div className="flex-l mhn2-l">
-              <div className="w-40-l ph2-l">
-                <h2 className="f2 b lh-title mb2">{entry.getIn(["data", "values", "heading"])}</h2>
-
-                <p>{entry.getIn(["data", "values", "text"])}</p>
-              </div>
-
-              <div className="w-60-l ph2-l">
-                <img src="/img/mountain-1.jpeg" alt="" className="mb3"/>
-              </div>
-            </div>
-
-            <div className="tc">
-              <a href="{{.buttonLink}}" className="btn raise">Read more</a>
-            </div>
-    
         <div className="bg-off-white pv4">
           <div className="ph3 mw7 center">
             <h2 className="f2 b lh-title mb2">{entry.getIn(["data", "intro", "heading"])}</h2>
@@ -60,7 +44,22 @@ export default class PostPreview extends React.Component {
         <div className="bg-grey-1 pv4">
           <div className="ph3 mw7 center">
 
-           
+             <div className="flex-l mhn2-l">
+              <div className="w-40-l ph2-l">
+                <h2 className="f2 b lh-title mb2">{entry.getIn(["data", "values", "heading"])}</h2>
+
+                <p>{entry.getIn(["data", "values", "text"])}</p>
+              </div>
+
+              <div className="w-60-l ph2-l">
+                <img src="/img/mountain-1.jpeg" alt="" className="mb3"/>
+              </div>
+            </div>
+
+            <div className="tc">
+              <a href="{{.buttonLink}}" className="btn raise">Read more</a>
+            </div>
+    
 
           </div>
         </div>
