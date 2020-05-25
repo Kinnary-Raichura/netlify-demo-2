@@ -1,6 +1,6 @@
 ---
 title: Vision
-image: img/silhouette-of-man-at-daytime-1051838-copy.jpg
+image: img/silhouette-of-man-at-daytime-1051838-copy2.jpg
 values:
   - heading: Workshops & Trainings
     text: >
