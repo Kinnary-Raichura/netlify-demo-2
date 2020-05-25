@@ -6,7 +6,7 @@ values:
     text: >
       We organize workshops and trainings to educate people on unique ability of
       human body to heal itself and support holistic living. 
-    imageUrl: img/holistice-living.jpg
+    imageUrl: img/holistic-living.png
   - heading: Promote Practitioners & Teachers
     text: >
       We promote practitioners and teachers of integrative health and spiritual
