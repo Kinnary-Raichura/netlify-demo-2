@@ -1,6 +1,6 @@
 ---
 title: Yogic Fitness
-date: 2020-05-25T12:42:52.190Z
+date: 2020-05-25T12:53:09.547Z
 description: >-
   It is not just Exercise. It is not just Yoga.
 
