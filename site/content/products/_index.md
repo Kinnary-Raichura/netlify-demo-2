@@ -1,6 +1,6 @@
 ---
 title: Our Events
-image: img/holistice-living.jpg
+image: img/alternative-therapies-1.jpg
 heading: No Event scheduled
 description: As of now, there are no events scheduled. Please sign up for our
   newsletter to be one of the first ones to hear about them.
