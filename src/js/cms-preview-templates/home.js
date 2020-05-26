@@ -41,7 +41,7 @@ export default class PostPreview extends React.Component {
           </div>
         </div>
 
-        <div className="bg-grey-1 pv4">
+/*        <div className="bg-grey-1 pv4">
           <div className="ph3 mw7 center">
 
              <div className="flex-l mhn2-l">
@@ -50,7 +50,7 @@ export default class PostPreview extends React.Component {
 
                 <p>{entry.getIn(["data", "values", "text"])}</p>
               </div>
-
+*/
               <div className="w-60-l ph2-l">
                 <img src="/img/mountain-1.jpeg" alt="" className="mb3"/>
               </div>
