@@ -17,7 +17,7 @@ products:
     text: We promote practitioners and teachers of integrative health and spiritual
       wisdom to help support holistic living.
 values:
-  heading: Our vision
+  heading: Our Vision
   text: >
     The term pragyavan means to be ‘aware’. When an individual is aware, they
     can recognize their own capabilities, fulfill their life’s potential and
