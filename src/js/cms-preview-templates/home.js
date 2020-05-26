@@ -23,7 +23,7 @@ export default class PostPreview extends React.Component {
           </div>
         </div>
 
-        <div className="bg-off-white pv4">
+/*        <div className="bg-off-white pv4">
           <div className="ph3 mw7 center">
             <h2 className="f2 b lh-title mb2">{entry.getIn(["data", "intro", "heading"])}</h2>
             <p className="mb4 mw6">{entry.getIn(["data", "intro", "text"])}</p>
@@ -34,14 +34,14 @@ export default class PostPreview extends React.Component {
                 <p>{product.get("text")}</p>
               </div>)}
             </div>
-
+*/
             <div className="tc">
               <a href="#" className="btn raise">See all events</a>
             </div>
           </div>
         </div>
 
-/*        <div className="bg-grey-1 pv4">
+        <div className="bg-grey-1 pv4">
           <div className="ph3 mw7 center">
 
              <div className="flex-l mhn2-l">
@@ -50,7 +50,7 @@ export default class PostPreview extends React.Component {
 
                 <p>{entry.getIn(["data", "values", "text"])}</p>
               </div>
-*/
+
               <div className="w-60-l ph2-l">
                 <img src="/img/mountain-1.jpeg" alt="" className="mb3"/>
               </div>
