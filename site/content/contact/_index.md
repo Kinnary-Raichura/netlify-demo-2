@@ -7,6 +7,7 @@ contact_entries:
   - heading: Working hours
     text: |-
       Monday – Saturday: 9AM – 7PM
+
       We are closed on Sundays.
 ---
 We’d love to get in touch with you and hear your ideas and questions. We strive to grow and improve constantly and your feedback is valuable for us.
