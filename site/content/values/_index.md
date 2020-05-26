@@ -21,7 +21,7 @@ values:
     text: >
       We support and develop research initiatives in the field of integrative
       health and spiritual wisdom.
-    imageUrl: img/alternative-medicine.jpg
+    imageUrl: img/alternative-medicine-2.jpg
   - heading: Appreciation & Application of Holistic Living
     text: >
       We foster the appreciation and application of holistic living and
