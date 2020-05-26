@@ -11,7 +11,7 @@ values:
     text: >
       We promote practitioners and teachers of integrative health and spiritual
       wisdom to help support holistic living.
-    imageUrl: img/alternative-medicine-2.jpg
+    imageUrl: img/alternative-therapies-2.jpg
   - heading: Relationship Building
     text: >
       We create community through relationship building with our conferences,
